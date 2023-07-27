@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="searchfile.cpp" />
     <ClCompile Include="Task.cpp" />
   </ItemGroup>
